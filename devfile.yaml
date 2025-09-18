@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: nodejs
+  name: nodejs_0.0.1
   displayName: Node.js Runtime
   description: Node.js 18 application
   icon: https://raw.githubusercontent.com/devfile-samples/devfile-stack-icons/main/node-js.svg
